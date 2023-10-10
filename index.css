@@ -19,3 +19,6 @@ span{
     color: #B85D60;
 }
 
+table, th, td{
+    border: 1px solid;
+}
